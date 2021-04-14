@@ -45,7 +45,7 @@ class _ContactPageState extends State<ContactPage> {
         child: Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.red,
-            title: Text(_editedContact.name ?? "Novo Contato"),
+            title: Text(_editedContact.name ?? "New Contact"),
             centerTitle: true,
           ),
           floatingActionButton: FloatingActionButton(
@@ -86,13 +86,13 @@ class _ContactPageState extends State<ContactPage> {
                     },
                   ),
                   TextFormField(
-                    decoration: InputDecoration(labelText: "Nome"),
+                    decoration: InputDecoration(labelText: "Name"),
                     controller: _nameController,
                     textInputAction: TextInputAction.next,
                     focusNode: _nameFocus,
                     validator: (value) {
                       if (value.isEmpty) {
-                        return "Insira um nome";
+                        return "Type a name";
                       }
                       _isNameSet = true;
                       return null;
@@ -117,14 +117,14 @@ class _ContactPageState extends State<ContactPage> {
                     },
                   ),
                   TextFormField(
-                    decoration: InputDecoration(labelText: "Numero"),
+                    decoration: InputDecoration(labelText: "Phone"),
                     controller: _phoneController,
                     textInputAction: TextInputAction.done,
                     focusNode: _phoneFocus,
                     keyboardType: TextInputType.phone,
                     validator: (value) {
                       if (value.isEmpty) {
-                        return "Insira um numero";
+                        return "Type a phone number";
                       }
                       _isPhoneSet = true;
                       return null;
@@ -153,7 +153,7 @@ class _ContactPageState extends State<ContactPage> {
                 children: <Widget>[
                   new ListTile(
                       leading: new Icon(Icons.photo_library),
-                      title: new Text('Galeria'),
+                      title: new Text('Gallery'),
                       onTap: () {
                         ImagePicker picker = ImagePicker();
                         picker
@@ -203,20 +203,20 @@ class _ContactPageState extends State<ContactPage> {
           context: context,
           builder: (context) {
             return AlertDialog(
-              title: Text("Descartar alterações?"),
-              content: Text("Se sair, as alterações serão perdidas"),
+              title: Text("Delete changes?"),
+              content: Text("When returning, all your changes are discarded"),
               actions: <Widget>[
                 TextButton(
                     onPressed: () {
                       Navigator.pop(context);
                     },
-                    child: Text("Cancelar")),
+                    child: Text("Cancel")),
                 TextButton(
                     onPressed: () {
                       Navigator.pop(context);
                       Navigator.pop(context);
                     },
-                    child: Text("Sim"))
+                    child: Text("Yes"))
               ],
             );
           });

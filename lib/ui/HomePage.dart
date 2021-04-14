@@ -27,18 +27,18 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Contatos"),
+        title: Text("Your little agenda"),
         backgroundColor: Colors.red,
         centerTitle: true,
         actions: <Widget>[
           PopupMenuButton<OrderOptions>(
             itemBuilder: (context) => <PopupMenuEntry<OrderOptions>>[
               const PopupMenuItem<OrderOptions>(
-                child: Text("Ordenar de A-Z"),
+                child: Text("Order A-Z"),
                 value: OrderOptions.orderaz,
               ),
               const PopupMenuItem<OrderOptions>(
-                child: Text("Ordenar de Z-A"),
+                child: Text("Order Z-A"),
                 value: OrderOptions.orderza,
               )
             ],
@@ -137,7 +137,7 @@ class _HomePageState extends State<HomePage> {
                                 launch("tel:${contacts[index].phone}");
                                 Navigator.pop(context);
                               },
-                              child: Text("Ligar",
+                              child: Text("Call",
                                   style: TextStyle(
                                       color: Colors.red, fontSize: 20.0))),
                         ),
@@ -148,7 +148,7 @@ class _HomePageState extends State<HomePage> {
                                 Navigator.pop(context);
                                 _showContactPage(contact: contacts[index]);
                               },
-                              child: Text("Editar",
+                              child: Text("Edit",
                                   style: TextStyle(
                                       color: Colors.red, fontSize: 20.0))),
                         ),
@@ -162,7 +162,7 @@ class _HomePageState extends State<HomePage> {
                                   Navigator.pop(context);
                                 });
                               },
-                              child: Text("Excluir",
+                              child: Text("Delete",
                                   style: TextStyle(
                                       color: Colors.red, fontSize: 20.0))),
                         )
