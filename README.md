@@ -1,16 +1,25 @@
 # Your little agenda (contact_agenda) 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
-https://wmazoni-sds1.netlify.app
+```Java
+//TODO: add link to play store
+//TODO: add link to apple store
+```
+Your little agenda is a Flutter application that was developed as part of the proccess of building my own portfolio.
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+This is a simple agenda app that has the main features of any other agenda you might use. You can create, edit annd delete contacts, set contacts pictures by using your camera or picking an image from your gallery and lastly but not least, call them!
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Mobile layout
+# Mobile layout
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+# Application features
+
+- Create, edit and delete a contact from your agenda.
+  - Add name, email and phone number. 
+- Take a picture or choose from your gallery a profile picture for your contacts.
+- Call them!
 
 # Technologies used
 
@@ -30,21 +39,25 @@ Flutter and dart.
 - Url Launcher
 - Focus
 
-## MaterialDesign app based
+> This is a MaterialDesign app based.
 
 # How to execute the project
 
 Simply clone it to the IDE of your preference 
 
-# Autor
+# Author
 
 Rafael Fróes Monteiro Carvalho
-[Linkedin] (https://www.linkedin.com/in/rafaelfroescarvalho/)
-[Instagrma] (https://www.instagram.com/rafafrs/)
+
+[Linkedin](https://www.linkedin.com/in/rafaelfroescarvalho/)
+
+[Instagram](https://www.instagram.com/rafafrs/)
 
 # Acknowledgment
 
-[University of Fortaleza] (http://www.unifor.br)
-[Conestoga College] (http://www.conestogac.on.ca)
-[Udemy] (http://www.udemy.com.br)
+[University of Fortaleza](http://www.unifor.br)
+
+[Conestoga College](http://www.conestogac.on.ca)
+
+[Udemy](http://www.udemy.com.br)
 
