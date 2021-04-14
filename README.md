@@ -5,7 +5,7 @@
 
 Your little agenda is a Flutter application that was developed as part of the proccess of building my own portfolio.
 
-This is a simple agenda app that has the main features of any other agenda you might use. You can create, edit annd delete contacts, set contacts pictures by using your camera or picking an image from your gallery and lastly but not least, call them!
+This is a simple agenda app that has the main features of any other agenda you might use. You can create, edit and delete contacts, set contacts pictures by using your camera or picking an image from your gallery and lastly but not least, call them!
 
 #### Available for your phone?
 - [ ] App on Play Store.
