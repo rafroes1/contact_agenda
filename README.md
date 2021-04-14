@@ -1,5 +1,5 @@
 # Your little agenda (contact_agenda) 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/rafroes1/generalAppInfos/blob/main/LICENSE) ![Version](https://img.shields.io/badge/version-v1.0-orange)
 
 ## About the project
 
@@ -55,9 +55,8 @@ Simply clone it to the IDE of your preference
 
 Rafael Fróes Monteiro Carvalho
 
-[Linkedin](https://www.linkedin.com/in/rafaelfroescarvalho/)
-
-[Instagram](https://www.instagram.com/rafafrs/)
+[![Linkedin](https://github.com/rafroes1/generalAppInfos/blob/main/assets/linkedin%20logo.png)](https://www.linkedin.com/in/rafaelfroescarvalho/)
+[![Instagram](https://github.com/rafroes1/generalAppInfos/blob/main/assets/instagram%20logo.png)](https://www.instagram.com/rafafrs/)
 
 ## Acknowledgment
 
