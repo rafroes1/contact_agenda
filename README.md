@@ -53,7 +53,7 @@ Simply clone it to the IDE of your preference
 
 ## Author
 
-Rafael Fróes Monteiro Carvalho
+Rafael Fróes Monteiro Carvalho - *Mobile developer*
 
 [![Linkedin](https://github.com/rafroes1/generalAppInfos/blob/main/assets/linkedin%20logo.png)](https://www.linkedin.com/in/rafaelfroescarvalho/)
 [![Instagram](https://github.com/rafroes1/generalAppInfos/blob/main/assets/instagram%20logo.png)](https://www.instagram.com/rafafrs/)
