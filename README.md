@@ -1,7 +1,7 @@
 # Your little agenda (contact_agenda) 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-# About the project
+## About the project
 
 ```Java
 //TODO: add link to play store
@@ -11,17 +11,17 @@ Your little agenda is a Flutter application that was developed as part of the pr
 
 This is a simple agenda app that has the main features of any other agenda you might use. You can create, edit annd delete contacts, set contacts pictures by using your camera or picking an image from your gallery and lastly but not least, call them!
 
-# Mobile layout
+## Mobile layout
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-# Application features
+## Application features
 
 - Create, edit and delete a contact from your agenda.
   - Add name, email and phone number. 
 - Take a picture or choose from your gallery a profile picture for your contacts.
 - Call them!
 
-# Technologies used
+## Technologies used
 
 Flutter and dart.
 
@@ -41,11 +41,17 @@ Flutter and dart.
 
 > This is a MaterialDesign app based.
 
-# How to execute the project
+## How to execute the project
 
 Simply clone it to the IDE of your preference 
 
-# Author
+
+## Release history
+
+- 1.0 (04/14/2021)
+    - First version of the app released.
+
+## Author
 
 Rafael Fróes Monteiro Carvalho
 
@@ -53,7 +59,7 @@ Rafael Fróes Monteiro Carvalho
 
 [Instagram](https://www.instagram.com/rafafrs/)
 
-# Acknowledgment
+## Acknowledgment
 
 [University of Fortaleza](http://www.unifor.br)
 
