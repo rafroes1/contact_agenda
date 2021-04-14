@@ -1,4 +1,4 @@
-# Your little agenda (contact_agenda) 
+# Your little agenda (contact_agenda)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rafroes1/generalAppInfos/blob/main/LICENSE) ![Version](https://img.shields.io/badge/version-v1.0-orange)
 
 ## About the project
@@ -12,9 +12,9 @@ This is a simple agenda app that has the main features of any other agenda you m
 - [ ] App on Apple Store.
 
 ## Mobile layout
-![Main Page](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/main%20page.jpeg) ![New Contact](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/new%20contact.jpeg) ![Options](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/options.jpeg)
+![Splash](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/splash.jpeg) ![Main Page](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/main%20page.jpeg) ![New Contact](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/new%20contact.jpeg) 
 
-![Galery Camera](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/galerry%20camera.jpeg) ![Order](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/order.jpeg)
+![Options](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/options.jpeg) ![Galery Camera](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/galerry%20camera.jpeg) ![Order](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/order.jpeg)
 
 ## Application features
 
