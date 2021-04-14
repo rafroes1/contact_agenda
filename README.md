@@ -12,7 +12,9 @@ This is a simple agenda app that has the main features of any other agenda you m
 - [ ] App on Apple Store.
 
 ## Mobile layout
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Main Page](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/main%20page.jpeg) ![New Contact](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/new%20contact.jpeg) ![Options](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/options.jpeg)
+
+![Galery Camera](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/galerry%20camera.jpeg) ![Order](https://github.com/rafroes1/generalAppInfos/blob/main/assets/contact_agenda/order.jpeg)
 
 ## Application features
 
