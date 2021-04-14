@@ -3,13 +3,13 @@
 
 ## About the project
 
-```Java
-//TODO: add link to play store
-//TODO: add link to apple store
-```
 Your little agenda is a Flutter application that was developed as part of the proccess of building my own portfolio.
 
 This is a simple agenda app that has the main features of any other agenda you might use. You can create, edit annd delete contacts, set contacts pictures by using your camera or picking an image from your gallery and lastly but not least, call them!
+
+#### Available for your phone?
+- [ ] App on Play Store.
+- [ ] App on Apple Store.
 
 ## Mobile layout
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
@@ -65,4 +65,5 @@ Rafael Fróes Monteiro Carvalho
 [Conestoga College](http://www.conestogac.on.ca)
 
 [Udemy](http://www.udemy.com.br)
+
 
